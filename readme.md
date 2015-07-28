@@ -7,7 +7,7 @@ Even though there are plenty of plugins available for protecting WordPress site,
 
 Based on these concept we made a plugin 'WP_Hide' which will help you to hide the fact that you are using WordPress for website development. WP-Hide, change all the site related path and details from source so that no programs will get any hint that the site is developed using  WordPress.  
 
----------
+
 > **How to install the plugin and get it working.**
 
 > - Upload 'wp-hide' to the '/wp-content/plugins/'' directory
